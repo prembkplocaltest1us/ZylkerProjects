@@ -43,4 +43,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo Add other actions to build,
-          exit 1
