@@ -42,5 +42,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo Add other actions to build,
-          exit 1
+          echo Add other actions to build
